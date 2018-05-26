@@ -1,5 +1,6 @@
 # effective_viz
-An overview of common data visualization techniques and when to apply them effectively
+An overview of common data visualization techniques and when to apply them effectively. 
+Types of plots reviewed -> histogram, rose, scatter, dot, box, and density ridgeline
 
 Data used for visualizations from:
 
