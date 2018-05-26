@@ -1,6 +1,7 @@
 # effective_viz
-An overview of common data visualization techniques and when to apply them effectively. 
+Are you getting the best stories from your data? An overview of common data visualization techniques and when to apply them effectively. 
 Types of plots reviewed -> histogram, rose, scatter, dot, box, and density ridgeline
+LinkedIn article: www.linkedin.com/pulse/visualizing-data-effectively-carter-edie/
 
 Data used for visualizations from:
 
